@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cyrus\.android\build-cache\809117fa2f8d153df62be3616227d126f1eb3f98\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Pokemon-master\Pokemon-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72082d781bceff85c2e4d585ec3f0b92fb230f6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cyrus\.android\build-cache\8f14003d0bd7868aeb4cd2779b009bc2da50fa82\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Pokemon-master\Pokemon-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a341840a914ba5d53f5e98ad55dc198c788450e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cyrus\.android\build-cache\c80e907b7b96a8386d01d5cf080ad06b65cae340\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Pokemon-master\Pokemon-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d586d9719f4c91defcad38a443ba1d89c02fc9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cyrus\.android\build-cache\f0ea084743a45dff9f9386f62f85c7781b9e3dd8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Pokemon-master\Pokemon-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b621a0863104f3350478af083150dd19e7b4a03e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cyrus\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Pokemon-master\Pokemon-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_74e17d5fd32699f029e091bfeb7b574142b85142\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cyrus\.android\build-cache\64302803e4e180b0e7bec1150ea341b2536ad17d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Pokemon-master\Pokemon-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5af5275f200dcf964b1c76aef9e531a13400487\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cyrus\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Pokemon-master\Pokemon-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_8cb8eb3adeb0cfefd2fff479192e639ad51fd7b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cyrus\.android\build-cache\38e0b01fd115b9f6d291a8b31a8c381722dfd1dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Pokemon-master\Pokemon-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66a7193ae4fe26cf9cbf417a76e46cb3c8c33d44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cyrus\.android\build-cache\0da7334ab6ae7d0a732cf37f04126282d2f903f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Pokemon-master\Pokemon-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15f08d5bb8f603626c704764774987f050dda850\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cyrus\.android\build-cache\7ef770bda1a05ff62446314f289dff6fe7edaf4f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Pokemon-master\Pokemon-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_072f64adc95deb00eba54db4a3e9a9c99cc47475\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cyrus\.android\build-cache\1f2fd2e9171cc3b74772d6752df4eab0b1b3556c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Pokemon-master\Pokemon-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a0c937cd717eec543e4d030fdcbe24f7e1440ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cyrus\.android\build-cache\59bbdab528fb60dcea51b72850cca6ac4b89fcea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Pokemon-master\Pokemon-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6dbc45f54252aefa294588771d911c27c31a9cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Pokemon-master\Pokemon-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="68b41450443290587a8b7e8b636d85de592bb285">
+        <dex dex="D:\Pokemon-master\Pokemon-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_986673462cfec7a88e12f01b1563134de83a549d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Pokemon-master\Pokemon-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Pokemon-master\Pokemon-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_afb5373bf6c053ae2b03b6d15bb001516d9bd34e\classes.dex" />
+    </item>
+
+</items>
